@@ -1,0 +1,3 @@
+id,time_stamp,reg_number,alt,dir,speed,lat,lng,dep_iata,flight_icao,status
+1,04/14/2025 22:37:34,N879RW,8196,286.2,600,42.788589,-87.519008,DCA,DAL5645,en-route
+2,04/14/2025 22:37:34,N764JD,4246,292.4,593,42.768301,-88.113814,ORD,ENY3748,en-route
